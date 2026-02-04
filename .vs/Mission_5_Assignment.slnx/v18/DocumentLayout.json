@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|c:\\users\\jmdow\\source\\repos\\mission_5_assignment\\mission_5_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|solutionrelative:mission_5_assignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|c:\\users\\jmdow\\source\\repos\\mission_5_assignment\\mission_5_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|solutionrelative:mission_5_assignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|c:\\users\\jmdow\\source\\repos\\mission_5_assignment\\mission_5_assignment\\views\\home\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|solutionrelative:mission_5_assignment\\views\\home\\calculator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|c:\\users\\jmdow\\source\\repos\\mission_5_assignment\\mission_5_assignment\\wwwroot\\js\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|solutionrelative:mission_5_assignment\\wwwroot\\js\\calculator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|c:\\users\\jmdow\\source\\repos\\mission_5_assignment\\mission_5_assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|solutionrelative:mission_5_assignment\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|c:\\users\\jmdow\\source\\repos\\mission_5_assignment\\mission_5_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0F65C1-C1C8-4FCE-9725-9A175E124C68}|Mission_5_Assignment\\Mission_5_Assignment.csproj|solutionrelative:mission_5_assignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "calculator.js",
+              "DocumentMoniker": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\wwwroot\\js\\calculator.js",
+              "RelativeDocumentMoniker": "Mission_5_Assignment\\wwwroot\\js\\calculator.js",
+              "ToolTip": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\wwwroot\\js\\calculator.js",
+              "RelativeToolTip": "Mission_5_Assignment\\wwwroot\\js\\calculator.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-04T21:41:58.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Mission_5_Assignment\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Mission_5_Assignment\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-02-04T21:41:04.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculator.cshtml",
+              "DocumentMoniker": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\Views\\Home\\Calculator.cshtml",
+              "RelativeDocumentMoniker": "Mission_5_Assignment\\Views\\Home\\Calculator.cshtml",
+              "ToolTip": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\Views\\Home\\Calculator.cshtml",
+              "RelativeToolTip": "Mission_5_Assignment\\Views\\Home\\Calculator.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:29:32.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Mission_5_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Mission_5_Assignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T21:05:47.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Mission_5_Assignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Mission_5_Assignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-04T20:55:13.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Mission_5_Assignment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jmdow\\source\\repos\\Mission_5_Assignment\\Mission_5_Assignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Mission_5_Assignment\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T21:13:13.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
